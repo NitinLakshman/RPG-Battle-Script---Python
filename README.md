@@ -6,7 +6,7 @@
 * Apart from attack, each player will have special powers:
    * Magic powers [Powers that deal extra attack damage & powers that increase the health]
    * 'X' no of magic items that deal extra attack damage or increase the health.
-The battle is won when all the players in a team lose.
+* The battle is won when all the players in a team lose.
 
 
 # Start of the game where players have full health and magic power:
