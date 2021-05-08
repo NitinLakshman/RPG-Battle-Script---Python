@@ -14,6 +14,7 @@
 
 
 # [2] When the action is selected as attack:
+### Changes reflect in the HP bar when the attack is used.
 ![image](https://user-images.githubusercontent.com/83760949/117524725-4037d980-afdc-11eb-96f4-f010a7dafe68.png)
 ![image](https://user-images.githubusercontent.com/83760949/117524742-5c3b7b00-afdc-11eb-9166-0b997e70abb5.png)
 
