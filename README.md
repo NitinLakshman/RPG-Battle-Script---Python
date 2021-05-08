@@ -19,7 +19,7 @@
 
 
 # [3] When the action is selected as magic:
-## Changes reflect in the MP bar when the magic is used.
+### Changes reflect in the MP bar when the magic is used.
 ![image](https://user-images.githubusercontent.com/83760949/117524795-b76d6d80-afdc-11eb-917e-7f8e56e39759.png)
 ![image](https://user-images.githubusercontent.com/83760949/117524804-c48a5c80-afdc-11eb-8028-bf5d64623bdd.png)
 
