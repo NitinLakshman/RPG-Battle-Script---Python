@@ -2,7 +2,7 @@
 
 ## A simple Role Play Game where the 2 teams fight each other for victory !!
 
-* 'N' no of players can be set in the 2 teams [Players & Enenmies].
+* 'N' no of players can be set in the 2 teams [Players & Enemies].
 * Apart from attack, each player will have special powers:
    * Magic powers [Powers that deal extra attack damage & powers that increase the health]
    * 'X' no of magic items that deal extra attack damage or increase the health.
